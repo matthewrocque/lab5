@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "136949549036",
+    "firebase_url": "https://lab5-2dc04-default-rtdb.firebaseio.com",
+    "project_id": "lab5-2dc04",
+    "storage_bucket": "lab5-2dc04.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:136949549036:android:724a85d9d5b8d14c41e2c9",
+        "android_client_info": {
+          "package_name": "com.example.lab5"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCG-aNWngKpw1S-hAcMwGSwq7u9gEoOnyQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
